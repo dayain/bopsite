@@ -18,7 +18,7 @@ const NavbarEx = () => {
                         <div className={styles.submenu_desc_title}>Services</div>
                         <div className={styles.submenu_desc_details}>Our service portfolio covers an entire staffing, software development life cycle and Operations that meets varied business needs.</div>
                         <div className={styles.submenu_desc_more}>
-                          <div className={styles.submenu_desc_more_title}>Can't find what you need ?</div>
+                          <div className={styles.submenu_desc_more_title}>Can&apos;t find what you need ?</div>
                           <Link href="/contact"><a className={styles.submenu_desc_more_link}>Let&apos;s&nbsp;Talk</a></Link>
                         </div>
                       </li>
